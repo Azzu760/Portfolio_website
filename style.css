@@ -948,7 +948,7 @@ textarea {
 
     .navbar {
         position: fixed;
-        width: 89%;
+        width: 87.5%;
         min-width: inherit;
         height: 4vh;
     }
