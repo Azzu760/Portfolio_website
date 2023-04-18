@@ -1016,7 +1016,7 @@ textarea {
 }
 
 
-@media only screen and (max-width: 300px) {
+/* @media only screen and (max-width: 300px) {
 
     header .header-right {
         display: none;
@@ -1264,4 +1264,4 @@ textarea {
         font-size: 10px;
     }
 
-} 
+}  */
