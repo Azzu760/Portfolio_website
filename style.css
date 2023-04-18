@@ -817,8 +817,9 @@ textarea {
     }
 
     .about_right {
-        width: 100%;
+        width: 125%;
         padding-left: 50px;
+        text-align: justify;
     }
 
     .about_right h1 {
